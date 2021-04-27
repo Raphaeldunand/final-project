@@ -1,3 +1,4 @@
+# Final document to simplify the indication of variables
 #python -m pip install haversine
 from haversine import haversine, Unit
 import urllib.request
@@ -65,7 +66,8 @@ def lat_long(location1, location2):
     # print(haversine(boston, paris))
 
 # lat_long(name)
-  
+#The values that are indicated in this function are averages that are in the initial distance.py documet. In order to simplyfy the code
+# to get the variable to fit this was the change that was made.  
 def travel(typer, distance, people):
     # global em
     # if typer == 'train' or typer == 'Train':

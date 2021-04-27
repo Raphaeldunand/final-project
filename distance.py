@@ -1,3 +1,4 @@
+#This was our initial attempt at calculating data--due to the challenges of getting to the sublevel if/then statments had to revise into Final_Distance.py
 #python -m pip install haversine
 from haversine import haversine, Unit
 import urllib.request

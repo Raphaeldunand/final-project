@@ -6,7 +6,7 @@ from wtforms.validators import DataRequired, length
 import math
 
 #Function Imports:
-from distance_copy import lat_long, travel, saved, distance_calc
+from Final_Distance import lat_long, travel, saved, distance_calc
 
 app = Flask(__name__)
 
@@ -69,7 +69,7 @@ def dis_data():
 def co2_data():
     """Based on the data inputed and pressing CO2 Emission will convert the information to what was asked in 
     the last two functions. It will render the results in  to appear"""
-    em =12
+    em =16 # this is the value in Typographic unit (points)--according to google
     location1 = request.form['start']
     location2 = request.form['end']
     people = request.form['people']
