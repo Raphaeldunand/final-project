@@ -1,4 +1,4 @@
-# final-project
+# Final-Project
 # Project Proposal
 ###### Team Members:
 Raphael Dunand, Sakshi Haria, Liliana Reyes Medrano
