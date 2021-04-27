@@ -1,6 +1,4 @@
 # final-project
-
-Link to our google docs: https://docs.google.com/document/d/1nkAO2806Z58ce_E8Xh9lkdgdt1zgQfHD_k-cdWbbKR0/edit?usp=sharing
 # Project Proposal
 ###### Team Members:
 Raphael Dunand, Sakshi Haria, Liliana Reyes Medrano
